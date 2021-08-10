@@ -3,7 +3,7 @@ var bg, issimg, scimg;
 var hasDocked = false;
 
 function preload(){
-  bg= loadImage("space.jpg");
+  bg= loadImage("spacebg.jpg");
   issimg = loadImage("iss.png");
   scimg = loadImage("spacecraft1.png");
   scimg1 = loadImage("spacecraft2.png");
